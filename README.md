@@ -1,1 +1,1 @@
-# Netflix-weather_clone
+# Netflix clone
